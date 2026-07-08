@@ -12,7 +12,6 @@ h1 {
   color: rgb(9, 9, 81);
   text-align: center;
   text-shadow: 5px 5px 15px black;
-  margin-top: 20px;
   padding: 10px;
 }
 
@@ -54,8 +53,8 @@ footer {
   padding: 10px;
 }
 
-li {
-  text-decoration: none;
+ul {
+  list-style-type: none;
 }
 .quote {
   text-align: center;
