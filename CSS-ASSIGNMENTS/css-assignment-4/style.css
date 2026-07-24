@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f3f3;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.form-container {
+  margin: 20px 0;
+  padding: 0;
+}
+
+.form {
+  width: 20rem;
+  margin: 0 auto;
+}
+
+.box {
+  margin-top: 20px;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 10px;
+  box-sizing: border-box;
+  resize: none;
+}
+
+button {
+  width: 100px;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: purple;
+  color: white;
+}
