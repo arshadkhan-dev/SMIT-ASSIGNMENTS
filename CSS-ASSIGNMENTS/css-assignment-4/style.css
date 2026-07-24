@@ -44,3 +44,6 @@ button {
   color: white;
   margin: 10px 30%;
 }
+button > i {
+  margin-right: 5px;
+}
